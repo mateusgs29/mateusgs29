@@ -12,13 +12,7 @@ Oi, meu nome é Mateus Gomes de Souza e sou graduando de Análise e Desenvolvime
 ### Linguagens e ferramentas
 ---
 
-<img src="https://img.shields.io/badge/%20html-232323?style=for-the-badge&logo=html5"> 
-<img src="https://img.shields.io/badge/%20css-232323?style=for-the-badge&logo=css3&logoColor=31A1D6"> 
-<img src="https://img.shields.io/badge/%20javascript-232323?style=for-the-badge&logo=javascript">
-<img src="https://img.shields.io/badge/%20git-232323?style=for-the-badge&logo=git">
-<img src="https://img.shields.io/badge/%20python-232323?style=for-the-badge&logo=python">
-<img src="https://img.shields.io/badge/%20mysql-232323?style=for-the-badge&logo=mysql">
-<img src="https://img.shields.io/badge/%20postgresql-232323?style=for-the-badge&logo=postgresql&logoColor=31648C">
+<img src="https://img.shields.io/badge/%20html-232323?style=for-the-badge&logo=html5"> <img src="https://img.shields.io/badge/%20css-232323?style=for-the-badge&logo=css3&logoColor=31A1D6"> <img src="https://img.shields.io/badge/%20javascript-232323?style=for-the-badge&logo=javascript"> <img src="https://img.shields.io/badge/%20git-232323?style=for-the-badge&logo=git"> <img src="https://img.shields.io/badge/%20python-232323?style=for-the-badge&logo=python"> <img src="https://img.shields.io/badge/%20mysql-232323?style=for-the-badge&logo=mysql"> <img src="https://img.shields.io/badge/%20postgresql-232323?style=for-the-badge&logo=postgresql&logoColor=31648C">
 
 
 ### Status do GitHub
