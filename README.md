@@ -1,6 +1,6 @@
 # Olá Mundo!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" alt="GIF" src="./animation.gif"/>
+<img align="right" alt="GIF" src="./animation.gif" width="200"/>
 
 Oi, meu nome é Mateus Gomes e estou graduando em Análise e Desenvolvimento de Sistemas pelo Instituto Federal Baiano. 
 
