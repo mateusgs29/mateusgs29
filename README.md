@@ -24,8 +24,11 @@ Gosto de sempre estar buscando novos conhecimentos e começar novos projetos. At
 ![Python](https://img.shields.io/badge/%20python-141321?style=for-the-badge&logo=python) 
 ![MySQL](https://img.shields.io/badge/%20mysql-141321?style=for-the-badge&logo=mysql) 
 ![Postgresql](https://img.shields.io/badge/%20postgresql-141321?style=for-the-badge&logo=postgresql&logoColor=31648C) 
-![Git](https://img.shields.io/badge/%20git-141321?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/%20github-141321?style=for-the-badge&logo=github) 
+![Bootstrap](https://img.shields.io/badge/%20bootstrap-141321?style=for-the-badge&logo=bootstrap)
+![JQuery](https://img.shields.io/badge/%20jquery-141321?style=for-the-badge&logo=jquery)
+![NodeJS](https://img.shields.io/badge/%20nodejs-141321?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/%20react-141321?style=for-the-badge&logo=react)
+
 
 ***
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mateusgs29&show_icons=true&theme=radical&title_color=F71B5D&text_color=fff&icon_color=F71B5D"> </p>
