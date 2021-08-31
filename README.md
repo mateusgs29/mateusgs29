@@ -31,4 +31,4 @@ Gosto de sempre estar buscando novos conhecimentos e começar novos projetos. At
 
 
 ***
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mateusgs29&show_icons=true&theme=radical&title_color=F71B5D&text_color=fff&icon_color=F71B5D"> </p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mateusgs29&show_icons=true&theme=radical&title_color=bc00dd&text_color=fff&icon_color=bc00dd"> </p>
