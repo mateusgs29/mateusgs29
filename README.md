@@ -1,6 +1,6 @@
 # Olá Mundo, Sou o Mateus Gomes!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-<img align="right" alt="GIF" src="./animation.gif" width="300px" />
+<img align="right" alt="GIF" src="./image_developer.png" width="320px" />
 
 - Estou me graduando em Análise e Desenvolvimento de Sistemas pelo [Instituto Federal de Educação Ciência e Tecnologia Baiano](https://ifbaiano.edu.br/portal/ads-guanambi/)
 - Sou voluntário de desenvolvimento front-end no [Portal Lacrei](https://www.portallacrei.com.br/)
