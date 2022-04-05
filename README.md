@@ -28,6 +28,6 @@ Gosto de sempre estar buscando novos conhecimentos e novos pontos de vista sobre
 
 ***
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusgs29&layout=compact&title_color=bc00dd&text_color=fff&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api?username=mateusgs29&show_icons=true&theme=radical&title_color=bc00dd&text_color=fff&icon_color=bc00dd"> 
+  <img height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusgs29&layout=compact&title_color=bc00dd&text_color=fff&theme=radical"/>
+  <img height="150px" src="https://github-readme-stats.vercel.app/api?username=mateusgs29&show_icons=true&theme=radical&title_color=bc00dd&text_color=fff&icon_color=bc00dd"> 
 </p>
