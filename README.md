@@ -27,4 +27,7 @@ Gosto de sempre estar buscando novos conhecimentos e novos pontos de vista sobre
 ![Git](https://img.shields.io/badge/%20git-161B22?style=for-the-badge&logo=git)
 
 ***
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mateusgs29&show_icons=true&theme=radical&title_color=bc00dd&text_color=fff&icon_color=bc00dd"> </p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateusgs29&layout=compact&title_color=bc00dd&text_color=fff&theme=radical"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=mateusgs29&show_icons=true&theme=radical&title_color=bc00dd&text_color=fff&icon_color=bc00dd"> 
+</p>
