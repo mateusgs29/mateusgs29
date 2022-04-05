@@ -24,7 +24,7 @@ Gosto de sempre estar buscando novos conhecimentos e novos pontos de vista sobre
 ![ReactNative](https://img.shields.io/badge/%20react%20native-161B22?style=for-the-badge&logo=react)
 ![Node](https://img.shields.io/badge/%20node.js-161B22?style=for-the-badge&logo=node.js)
 ![Firebase](https://img.shields.io/badge/%20firebase-161B22?style=for-the-badge&logo=firebase)
-
+![Git](https://img.shields.io/badge/%20git-161B22?style=for-the-badge&logo=git)
 
 ***
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mateusgs29&show_icons=true&theme=radical&title_color=bc00dd&text_color=fff&icon_color=bc00dd"> </p>
