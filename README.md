@@ -18,7 +18,7 @@ Gosto de sempre estar buscando novos conhecimentos e novos pontos de vista sobre
 ![CSS](https://img.shields.io/badge/%20css-161B22?style=for-the-badge&logo=css3&logoColor=31A1D6) 
 ![Bootstrap](https://img.shields.io/badge/%20bootstrap-161B22?style=for-the-badge&logo=bootstrap)
 ![Sass](https://img.shields.io/badge/%20sass-161B22?style=for-the-badge&logo=sass)
-![Styled Components](https://img.shields.io/badge/%20styled$20components-161B22?style=for-the-badge&logo=styled-components)
+![Styled Components](https://img.shields.io/badge/%20styled%20components-161B22?style=for-the-badge&logo=styled-components)
 ![Javascript](https://img.shields.io/badge/%20javascript-161B22?style=for-the-badge&logo=javascript) 
 ![React](https://img.shields.io/badge/%20react-161B22?style=for-the-badge&logo=react)
 ![ReactNative](https://img.shields.io/badge/%20react%20native-161B22?style=for-the-badge&logo=react)
