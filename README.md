@@ -1,4 +1,4 @@
-# Olá Mundo, Sou o Mateus Gomes!  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
+# Olá Mundo, Sou o Mateus Gomes! 
 
 <img align="right" alt="GIF" src="./image_developer.png" width="320px" />
 
