@@ -2,8 +2,8 @@
 
 <img align="right" alt="GIF" src="./image_developer.png" width="320px" />
 
-- Estou me graduando em Análise e Desenvolvimento de Sistemas pelo [Instituto Federal de Educação Ciência e Tecnologia Baiano](https://ifbaiano.edu.br/portal/ads-guanambi/)
-- Estagiário de front-end na [Vertigo Tecnologia](https://www.vertigo.com.br/)
+- Graduado em Análise e Desenvolvimento de Sistemas pelo [Instituto Federal de Educação Ciência e Tecnologia Baiano](https://ifbaiano.edu.br/portal/ads-guanambi/)
+- Desenvolvedor Front-end na [Vertigo Tecnologia](https://www.vertigo.com.br/)
 
 Gosto de sempre estar buscando novos conhecimentos e novos pontos de vista sobre o mundo. Atualmente estou me aprimorando na área do desenvolvimento web.
 
